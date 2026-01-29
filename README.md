@@ -5,6 +5,9 @@
 **Color Leak** est un jeu de plateforme et de puzzle coopératif en 2D, centré sur la **couleur comme mécanique de gameplay**.  
 Deux joueurs doivent collaborer pour redonner vie à un monde monochrome à travers des puzzles basés sur la théorie des couleurs.
 
+
+### 🎮 Lien vers le téléchargement du jeu : https://mathias-paitier.itch.io/color-leak
+
 ---
 
 ## 🧠 Concept
