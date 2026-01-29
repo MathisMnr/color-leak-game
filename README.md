@@ -66,7 +66,7 @@ Les couleurs sont débloquées progressivement, permettant une montée en comple
 ---
 
 ## 🎥 Trailer
-👉 Voir le trailer du jeu dans ce repository ou via la section *Releases*.
+👉 Voir le trailer du jeu dans ce repository ou via la section *Releases* ou via ce lien itch.io : https://mathias-paitier.itch.io/color-leak
 
 ---
 
