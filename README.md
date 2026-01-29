@@ -55,6 +55,13 @@ Les couleurs sont débloquées progressivement, permettant une montée en comple
 
 ---
 
+## 🛠️ Informations utiles
+- Les fichiers C++ se trouvent dans le dossier Source -> Public, les .h dans Source -> Private
+- Les fichiers blueprint se trouvent dans le dossier **Content**
+- Les assets et fichiers lourds ont intentionnellement été exclus de la version, afin d'alléger le repository.
+
+---
+
 ## 🎥 Trailer
 👉 Voir le trailer du jeu dans ce repository ou via la section *Releases*.
 
